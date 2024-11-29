@@ -1,0 +1,27 @@
+{
+    "id": "BE1BF9E0",
+    "path": "/media/sergej/My Book/Programming/r_geneexpression_sample/genexpression_sample/src/process_for_limma.R",
+    "project_path": "src/process_for_limma.R",
+    "type": "r_source",
+    "hash": "3567129791",
+    "contents": "",
+    "dirty": false,
+    "created": 1732834001144.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "3,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1732836079,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1732836079741,
+    "read_only": false,
+    "read_only_alternatives": []
+}
